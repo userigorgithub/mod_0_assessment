@@ -1,4 +1,4 @@
-var AIRPORT = {
+var myAirport = {
   name: "DIA",
   country: "United States of America",
   totalMaxAirplanes: 500,
